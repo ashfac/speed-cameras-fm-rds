@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"name": "si4703-fm-rds-receiver",
+			"path": "si4703-fm-rds-receiver"
+		},
+		{
+			"name": "tv-out",
+			"path": "tv-out"
+		}
+	],
+	"settings": {
+		"terminal.integrated.env.windows": {
+			"PATH": "C:\\Users\\ahmad\\.platformio\\penv\\Scripts;C:\\Users\\ahmad\\.platformio\\penv;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\ahmad\\AppData\\Local\\Microsoft\\WindowsApps;;C:\\Users\\ahmad\\AppData\\Local\\Programs\\Microsoft VS Code\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\OpenSSH\\;C:\\Users\\ahmad\\AppData\\Local\\Microsoft\\WindowsApps;;C:\\Users\\ahmad\\AppData\\Local\\Programs\\Microsoft VS Code\\bin",
+			"PLATFORMIO_CALLER": "vscode"
+		}
+	}
+}
