@@ -2,8 +2,8 @@
 
 This project consists of two Arduino programs.
 
-- [si4703-fm-rds-receiver](https://gitea.odroid.hc/honda-civic-hybrid-2008/speed-cameras-fm-rds/src/branch/master/si4703-fm-rds-receiver): This program parses RDS data received via an SI4703 FM radio chip and sends it out over serial port.
-- [tv-out](https://gitea.odroid.hc/honda-civic-hybrid-2008/speed-cameras-fm-rds/src/branch/master/tv-out): This program receives serial data from the other microcontroller and displays it over the TFT monitor using the TV-out library.
+- si4703-fm-rds-receiver: This program parses RDS data received via an SI4703 FM radio chip and sends it out over serial port.
+- tv-out: This program receives serial data from the other microcontroller and displays it over the TFT monitor using the TV-out library.
 
 ## Prototype
 ![proto-1](pics/prototype-1.jpg)
